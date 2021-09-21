@@ -1,0 +1,183 @@
+@charset "UTF-8";
+
+header {
+  position: 90%;
+}
+
+div#class-hqs {
+  width: 700px;
+  margin: 0 auto;
+  padding: 60px;
+  overflow: hidden;
+  list-style: none;
+}
+
+ul#album-hqs li#foto01 p {
+  float: left;
+  width: 250px;
+  height: 350px;
+  margin: 10px;
+  border: 5px solid#ffffff;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  -webkit-transition: all 0.5s ease-in;
+}
+
+ul#album-hqs {
+  width: 50% 50%;
+  margin: inherit;
+  padding: 60px;
+  overflow: hidden;
+  list-style: none;
+}
+
+ul#album-hqs li {
+  float: left;
+  width: 250px;
+  height: 350px;
+  margin: 10px;
+  border: 5px solid#ffffff;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  -webkit-transition: all 0.5s ease-in;
+}
+
+ul#album-hqs li span {
+  opacity: 0;
+  color: #ffffff;
+  text-shadow: 1px 1px 1px #000000;
+  background-color: rgba(43, 7, 248, 0.3);
+  font-size: 9pt;
+  line-height: unset;
+  padding: 10px;
+}
+
+ul#album-hqs li:hover {
+  -webkit-transform: scale(1.4);
+}
+
+ul#album-hqs li:hover span {
+  opacity: 1;
+}
+
+ul#album-hqs li#foto01 {
+  background: url("../_imagens/01_Action_Comics_01_Superman.png") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+  display: inline;
+}
+
+ul#album-hqs li#foto01:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto02 {
+  background: url("../_imagens/02_watchmen.png") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+ul#album-hqs li#foto02:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto03 {
+  background: url("../_imagens/03_Green_Lantern_Vol_2.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto03:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto04 {
+  background: url("../_imagens/04_dare_devil.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto04:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto05 {
+  background: url("../_imagens/05_monstro_do_pantano.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto05:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto06 {
+  background: url("../_imagens/06_Spider-Man-1.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto06:hover {
+  background-position: 0px 0px;
+  background-size:cover;
+}
+
+ul#album-hqs li#foto07 {
+  background: url("../_imagens/07_crise_nas_infinitas_terras.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto07:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto08 {
+  background: url("../_imagens/08_a_piada_mortal.png") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto08:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto09 {
+  background: url("../_imagens/09_turma_da_monica_lacos.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto09:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
+
+ul#album-hqs li#foto10 {
+  background: url("../_imagens/10_orquidea_negra.jpg") no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+ul#album-hqs li#foto10:hover {
+  background-position: 0px 0px;
+  background-size: relative;
+}
